@@ -1,0 +1,61 @@
+# User-specific files
+*.swp
+*.swo
+*.DS_Store
+
+# Build products
+*.app
+*.ipa
+*.dSYM
+*.xcuserstate
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+.idea/
+build/
+*.orig
+
+# Swift Package Manager
+/.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+Carthage/Builds/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swf
+*.class
+
+# Logs
+*.log
+*.xcactivitylog
+
+# Environment
+.env
+.env.*
+*.keychain
+
+# Provisioning Profiles
+*.mobileprovision
+*.provisionprofile
+
+# Simulator devices
